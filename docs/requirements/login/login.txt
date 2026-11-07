@@ -1,0 +1,12 @@
+Create a login screen
+With user name and password option
+
+The login screen should have company logo at the top - use a dummy logo for now - and make this configuratble from any config file
+
+And have a username and password verification also added.
+
+Create a table in Railway for now to store user credentials and password.
+
+Create an API to validate the username and password is matching or not.
+
+
